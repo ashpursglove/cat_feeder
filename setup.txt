@@ -1,1 +1,10 @@
-nothing yet.....
+SMTP details
+
+email
+ashSMTPserver@gmail.com
+
+Password
+AshandfidelSMTP
+
+generated app password
+jkyjobllsjefpuut
