@@ -1,3 +1,3 @@
 # cat_feeder
 
-modular code for cat auto cat feeder
+modular code for auto cat feeder
